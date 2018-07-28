@@ -19,4 +19,5 @@ As part of Opencv 3.4.+ deep neural network(dnn) module was included officially.
 * SqueezeNet
 * Faster R-CNN
 * ResNet
+
 This API is compatible with C++ and Python.
